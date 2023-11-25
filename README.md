@@ -1,3 +1,8 @@
+![_C__Users_USER_OneDrive%20-%20GroupVivendiAfrica_Desktop_chaste_html%20and%20css%20portfolio_index html](https://github.com/shyakachaste/html-and-css-portfolio/assets/121980393/01fbbf18-7ffa-4660-b317-236f4cfdbed9)
+
+![_C__Users_USER_OneDrive%20-%20GroupVivendiAfrica_Desktop_chaste_html%20and%20css%20portfolio_index html (1)](https://github.com/shyakachaste/html-and-css-portfolio/assets/121980393/c3826897-9ecf-41d0-94fe-b7f4661237fc)
+
+
 HTML and CSS Teacher's Portfolio
 Overview
 Welcome to Shyaka Chaste's HTML and CSS Teacher's Portfolio Project! This project serves as a showcase of skills in web development, specifically in the areas of HTML and CSS. As a teacher passionate about sharing knowledge, Shyaka has leveraged these technologies to create an engaging and visually appealing portfolio website.
@@ -19,7 +24,7 @@ CSS3
 Installation
 
 clone this repository
-git clone https://github.com/shyakachaste/html-and-css-portfolio.git
+<code>git clone https://github.com/shyakachaste/html-and-css-portfolio.git</code>
 
 Open the project folder:
 

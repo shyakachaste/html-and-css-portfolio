@@ -2,6 +2,10 @@
 
 ![_C__Users_USER_OneDrive%20-%20GroupVivendiAfrica_Desktop_chaste_html%20and%20css%20portfolio_index html (1)](https://github.com/shyakachaste/html-and-css-portfolio/assets/121980393/c3826897-9ecf-41d0-94fe-b7f4661237fc)
 
+![_C__Users_USER_OneDrive%20-%20GroupVivendiAfrica_Desktop_chaste_html%20and%20css%20portfolio_index html](https://github.com/shyakachaste/html-and-css-portfolio/assets/121980393/397898a7-7085-4a1f-865a-8cee506ae8bf)
+
+![_C__Users_USER_OneDrive%20-%20GroupVivendiAfrica_Desktop_chaste_html%20and%20css%20portfolio_index html (1)](https://github.com/shyakachaste/html-and-css-portfolio/assets/121980393/d6804695-3bce-4cf5-a47f-b4d057c44f80)
+
 
 HTML and CSS Teacher's Portfolio
 Overview
@@ -33,7 +37,4 @@ Open the project folder:
 Usage
 Open the index.html file in your preferred web browser.
 
-
-License
-This project is licensed under the MIT License.
 

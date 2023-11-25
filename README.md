@@ -23,7 +23,7 @@ git clone https://github.com/shyakachaste/html-and-css-portfolio.git
 
 Open the project folder:
 
-cd html-and-css-portfolio
+<code>cd html-and-css-portfolio</code>
 
 Usage
 Open the index.html file in your preferred web browser.
